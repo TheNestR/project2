@@ -1,0 +1,18 @@
+body{
+    background: url(../images/cat.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.pohui{
+    cursor: url(../images/cursor.jpg), default;
+    color: red;
+    font-size: 100px;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
